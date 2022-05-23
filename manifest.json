@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Better Diamond Textures",
+        "name":"Better Diamond Textures",
+        "uuid":"c8153254-985f-4272-a6e7-af3acb4788d2",
+        "version":[0,0,1],
+        "min_engine_version":[1,18,10]
+    },
+    "modules": [
+        {
+            "description":"Better Diamond Textures",
+            "type":"resources",
+            "uuid":"bdb955d6-1c0d-451a-82a3-a4bc09c08bc2",
+            "version":[0,0,1]
+        }
+    ]
+}
